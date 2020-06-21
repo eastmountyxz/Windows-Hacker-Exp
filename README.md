@@ -1,6 +1,6 @@
-# CSDNBlog-Work
+# Windows-Hacker-Exp
 
-
+该资源主要参考甘迪文老师的《Windows黑客编程技术详解》书籍，作者从实践角度编写代码，希望对您有所帮助~ 
 
 
 参考文章：<br />
