@@ -15,6 +15,7 @@
 - [《Windows黑客编程技术详解》之注入技术详解（全局钩子、远线程钩子、突破Session 0注入、APC注入](https://blog.csdn.net/Eastmount/article/details/106929277) 
 - [《Windows黑客编程技术详解》之病毒启动技术创建进程API、突破SESSION0隔离、内存加载详解](https://blog.csdn.net/Eastmount/article/details/107578717)
 - [《Windows黑客编程技术详解》之木马开机自启动技术（注册表、计划任务、系统服务）](https://blog.csdn.net/Eastmount/article/details/108020041)
+- [《Windows黑客编程技术详解》之提权技术（令牌权限提升和Bypass UAC）](https://blog.csdn.net/Eastmount/article/details/108486283#comments_13248460)
 
 ---
 
