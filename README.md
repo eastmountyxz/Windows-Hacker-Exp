@@ -14,6 +14,8 @@
 - 传输技术
 - 功能技术
 
+远控软件
+
 参考文章：<br />
 - 《Windows黑客编程技术详解》 甘迪文老师 <br />
 - [《Windows黑客编程技术详解》之VS环境配置、基础知识及DLL延迟加载详解](https://blog.csdn.net/Eastmount/article/details/106718606)
